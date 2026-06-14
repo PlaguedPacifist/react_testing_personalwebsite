@@ -1,5 +1,5 @@
 {
-  "homepage": "/PassionProjectplaguedpacifist",
+  "homepage": "https://CuredMurderer.github.io/PassionProjectplaguedpacifist",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,6 @@
     "react-wavify": "^1.11.1",
     "web-vitals": "^2.1.4"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
