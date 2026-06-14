@@ -90,22 +90,7 @@ function App() {
       </a>
     </div>
   </div>
-  <div id="waves">
-    <Wave fill='#9461ed85'
-        paused={false}
-        style={{ 
-          display:'flex'
 
-
-         }}
-        options={{
-          height: 0,
-          amplitude: 20,
-          speed: 0.15,
-          points: 3
-        }}
-  />
-  </div>
   
 <div id="forgetmenot1">
   <img src={forgetmenot1} />
