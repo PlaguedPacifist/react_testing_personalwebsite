@@ -51,37 +51,37 @@ I might also be a fair bit too attached and stuff blehnpx (i really dont mean to
 
   <div id="sidetabs">
     <div id="tabs">
-      <a href="Home">
+      <a href="Home.js">
         <img src={homegif} />
       </a>
     </div>
     <div id="tabs">
-      <a href="Art">
+      <a href="Art.js">
         <img src={artgif} />
       </a>
     </div>
     <div id="tabs">
-      <a href="Writing">
+      <a href="Writing.js">
         <img src={writinggif} />
       </a>
     </div>
     <div id="tabs">
-      <a href="Websites">
+      <a href="Websites.js">
         <img src={websitesgif} />
       </a>
     </div>
     <div id="tabs">
-      <a href="Ranting">
+      <a href="Ranting.js">
         <img src={rantinggif} />
       </a>
     </div>
     <div id="tabs">
-      <a href="Socials">
+      <a href="Socials.js">
         <img src={socialsgif} />
       </a>
     </div>
     <div id="tabs">
-      <a href="Guestbook">
+      <a href="Guestbook.js">
         <img src={guestbookgif} />
       </a>
     </div>
