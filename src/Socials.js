@@ -31,7 +31,6 @@ function App() {
 
 
 
-
   <div id="maincontent">
     <h1>Socials</h1>
     <p>Twitter/X: @PlaguedPacifist</p>
@@ -120,3 +119,4 @@ function App() {
 }
 
 export default App;
+// ad
