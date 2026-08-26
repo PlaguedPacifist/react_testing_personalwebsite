@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://PlaguedPacifist.github.io/react_testing_personalwebsite",
-=======
-  "homepage": "https://PlaguedPacifist.github.io/react_testing_personalwebsite",,
->>>>>>> 63de6d0ff95030a4ebf40f584b681266d63df4a9
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +16,6 @@
     "react-wavify": "^1.11.1",
     "web-vitals": "^2.1.4"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
