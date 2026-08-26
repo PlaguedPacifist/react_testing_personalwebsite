@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import rantinggif from './imgfiles/rantingbtngif.gif'
 import headergif from './imgfiles/header.gif'
 import artgif from './imgfiles/artgif.gif'
@@ -123,7 +123,6 @@ I might also be a fair bit too attached and stuff blehnpx (i really dont mean to
 }
 
 export default App;
-=======
 import rantinggif from './imgfiles/rantingbtngif.gif'
 import headergif from './imgfiles/header.gif'
 import artgif from './imgfiles/artgif.gif'
@@ -248,4 +247,3 @@ I might also be a fair bit too attached and stuff blehnpx (i really dont mean to
 }
 
 export default App;
->>>>>>> 63de6d0ff95030a4ebf40f584b681266d63df4a9
